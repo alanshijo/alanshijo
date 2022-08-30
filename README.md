@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<h1 align="center">Hi 👋, I'm Alan Shijo</h1>
+<h1 align="center">I'm Alan Shijo</h1>
 <h3 align="center">A passionate Front-End developer from India</h3>
 
 - 👨‍🎓 I’m currently **an MCA student**
