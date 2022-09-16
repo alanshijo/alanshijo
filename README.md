@@ -1,5 +1,5 @@
-<h1 align="left">I'm Alan Shijo</h1>
-<h3 align="left">A passionate Front-End developer from India</h3>
+<h1 align="left">Hi, I'm Alan Shijo 👋</h1>
+<h3 align="left">A passionate developer from India</h3>
 
 - 👨‍🎓 I’m currently **an MCA student**
 
