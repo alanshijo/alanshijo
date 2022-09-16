@@ -21,6 +21,8 @@ Feel free to connect with me here:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
