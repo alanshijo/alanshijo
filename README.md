@@ -6,9 +6,9 @@
 
 Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-shijo-823054170/)](https://www.linkedin.com/in/alan-shijo-823054170/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/a1an_shijo/)](https://www.instagram.com/a1an_shijo/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanshijoatkl@gmail.com)](alanshijoatkl@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-alan-shijo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-shijo-823054170/)](https://www.linkedin.com/in/alan-shijo-823054170/)
+[![Instagram Badge](https://img.shields.io/badge/-a1an_shijo-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/a1an_shijo/)](https://www.instagram.com/a1an_shijo/)
+[![Gmail Badge](https://img.shields.io/badge/-alanshijoatkl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanshijoatkl@gmail.com)](alanshijoatkl@gmail.com)
 
 ## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
