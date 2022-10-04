@@ -5,9 +5,9 @@
 
 Feel free to connect with me here:
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/alan-shijo-823054170/)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/a1an_shijo/)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(https://mail.google.com/mail/u/0/?to=alanshijoatkl@gmail.com&fs=1&tf=cm)
+![LinkedIn(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-shijo-823054170/)
+![Instagram(https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/a1an_shijo/)
+![Gmail(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?to=alanshijoatkl@gmail.com&fs=1&tf=cm)
 
 ## 😁 About me
 [![My Resume](https://img.shields.io/badge/-Resume-white)](https://alanshijo.github.io/)
