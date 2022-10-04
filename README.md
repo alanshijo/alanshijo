@@ -3,8 +3,7 @@
 
 - 👨‍🎓 I’m currently **an MCA student**
 
-
-[![My Resume](https://img.shields.io/badge/-Resume-white)](https://alanshijo.github.io/)
+- [![My Resume](https://img.shields.io/badge/-Resume-white)](https://alanshijo.github.io/)
 
 Feel free to connect with me here:
 
