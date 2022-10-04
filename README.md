@@ -4,12 +4,13 @@
 - 👨‍🎓 I’m currently **an MCA student**
 
 
+[![My Resume](https://img.shields.io/badge/-Resume-white)](https://alanshijo.github.io/)
+
 Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-shijo-823054170/)](https://www.linkedin.com/in/alan-shijo-823054170/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/a1an_shijo/)](https://www.instagram.com/a1an_shijo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanshijoatkl@gmail.com)](mailto:alanshijoatkl@gmail.com)
-[![My Resume](https://img.shields.io/badge/-Resume-white)](https://alanshijo.github.io/)
 
 ## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
