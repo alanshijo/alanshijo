@@ -1,8 +1,9 @@
 <h1 align="left">Hi👋, I'm Alan Shijo</h1>
 <h3 align="left">A passionate developer from India</h3>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/alanshijo/alanshijo/main/Programming.gif" width="360px"/>
 
 - 👨‍🎓 I’m currently **an MCA student**
-- 📝 Checkout my [Resume](https://alanshijo.github.io/)
+- 📝 Checkout my <a href="https://alanshijo.github.io/">Resume</a>
 
 Connect with me here:
 
