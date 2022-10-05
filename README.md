@@ -4,6 +4,7 @@
 
 - 👨‍🎓 I’m currently **an MCA student.**
 - 👯 I’m looking to collaborate with other programmers.
+- 📧 How to reach me: <a href="https://mail.google.com/mail/u/0/?to=alanshijoatkl@gmail.com&fs=1&tf=cm">alanshijoatkl@gmail.com</a>
 - 📝 Checkout my <a href="https://alanshijo.github.io/">Resume.</a>
 
 <h3 align="left">Connect with me:</h3>
@@ -12,7 +13,7 @@
 <a href="https://www.instagram.com/a1an_shijo/"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30" width="30"/></a>&nbsp;
 <a href="https://www.snapchat.com/add/alan_shijo?sender_web_id=3aa97d9c-016e-4b36-ab19-aea4667e24f7&device_type=desktop&is_copy_url=true"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409941.png" height="30" width="30"/></a>&nbsp;
 <a href="https://t.me/alan_shijo"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536661.png" height="30" width="30"/></a>&nbsp;
-<a href="https://mail.google.com/mail/u/0/?to=alanshijoatkl@gmail.com&fs=1&tf=cm"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="32" width="30"/></a>
+<!--a href="https://mail.google.com/mail/u/0/?to=alanshijoatkl@gmail.com&fs=1&tf=cm"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="32" width="30"/></a-->
 
 <!--a href="https://alanshijo.github.io/">➡️ Please find my resume attached</a>
 <img src="https://img.shields.io/badge/-RESUME-%235F678E?style=for-the-badge&logo=readthedocs&logoColor=white" /-->
