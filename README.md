@@ -1,6 +1,5 @@
 <h1 align="left">Hi👋, I'm Alan Shijo</h1>
 <h3 align="left">A passionate developer from India</h3>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/alanshijo/alanshijo/main/Programming.gif" width="360px"/>
 
 - 👨‍🎓 I’m currently **an MCA student.**
 - 👯 I’m looking to collaborate with other programmers.
