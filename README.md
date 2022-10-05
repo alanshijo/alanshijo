@@ -2,8 +2,9 @@
 <h3 align="left">A passionate developer from India</h3>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/alanshijo/alanshijo/main/Programming.gif" width="360px"/>
 
-- 👨‍🎓 I’m currently **an MCA student**
-- 📝 Checkout my <a href="https://alanshijo.github.io/">Resume</a>
+- 👨‍🎓 I’m currently **an MCA student.**
+- 👯 I’m looking to collaborate with other programmers.
+- 📝 Checkout my <a href="https://alanshijo.github.io/">Resume.</a>
 
 Connect with me here:
 
