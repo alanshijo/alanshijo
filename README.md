@@ -66,3 +66,5 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=alanshijo&show_icons=true&theme=gotham" alt="alanshijo" /> 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alanshijo&theme=gotham&border_radius=4&date_format=j%20M%5B%20Y%5D" /></a>
 <img src="https://activity-graph.herokuapp.com/graph?username=alanshijo&theme=gotham" />
+
+[![@alanshijo's Holopin board](https://holopin.me/alanshijo)](https://holopin.io/@alanshijo)
