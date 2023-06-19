@@ -5,7 +5,7 @@
 - 👨‍🎓 I’m currently **an MCA student.**
 - 👯 I’m looking to collaborate with other programmers.
 - 📧 How to reach me: <a href="https://mail.google.com/mail/u/0/?to=alanshijoatkl@gmail.com&fs=1&tf=cm">alanshijoatkl@gmail.com</a>
-- 📝 Checkout my <a href="https://portfolio-alanshijo.vercel.app/">Portfolio</a>
+- 📝 Checkout my <a href="https://www.alanshijo.online/">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 
