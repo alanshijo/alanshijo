@@ -5,7 +5,7 @@
 - 👨‍🎓 I have successfully completed my MCA degree.
 - 👯 I'm eager to join forces with fellow programmers for collaborative projects.
 - 📧 You can get in touch with me at <a href="https://mail.google.com/mail/u/0/?to=alanshijoatkl@gmail.com&fs=1&tf=cm">alanshijoatkl@gmail.com</a>
-- 📝 Feel free to explore my <a href="https://www.alanshijo.online/" target="_blank">portfolio</a>
+- 📝 Feel free to explore my <a href="https://www.alanshijo.vercel.app/" target="_blank">portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -22,6 +22,7 @@
 
 > Learning 
 <p>
+<img alt="Yii" src="https://img.shields.io/badge/Yii-247ba0.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </p>
