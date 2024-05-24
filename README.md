@@ -1,5 +1,5 @@
 <h1 align="left">Hi👋, I'm Alan Shijo</h1>
-<img align="right" alt="Coder GIF" width=400 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+<img align="left" alt="Coder GIF" width=350 src="./octocat-1716544507232.png" />
 <h3 align="left">An enthusiastic developer hailing from India 🇮🇳</h3>
 
 - 👨‍🎓 I have successfully completed my MCA degree.
@@ -7,10 +7,11 @@
 - 📧 You can get in touch with me at <a href="https://mail.google.com/mail/u/0/?to=alanshijoatkl@gmail.com&fs=1&tf=cm">alanshijoatkl@gmail.com</a>
 - 📝 Feel free to explore my <a href="https://www.alanshijo.vercel.app/" target="_blank">portfolio</a>
 
-<h3 align="left">Connect with me:</h3>
-
+<h4 align="left">Connect with me:</h4>
+<div style="display:flex;flex-direction:row;">
 <a href="https://www.linkedin.com/in/alan-shijo-823054170/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="25" width="25"/></a>&nbsp;
 <a href="https://www.instagram.com/a1an_shijo/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="25" width="25"/></a>&nbsp;
+</div>
 
 ## ⚡Tech Stacks
 > Languages 
