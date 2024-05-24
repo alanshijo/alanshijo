@@ -1,9 +1,7 @@
 <h1 align="left">Hi👋, I'm Alan Shijo</h1>
-<div>
-<img align="left" alt="Coder GIF" width=250 src="./octocat-1716544507232.png" />
+<img align="right" src="./octocat-1716544507232.png" alt="Coder GIF" width="300" />
 <h3 align="left">An enthusiastic developer hailing from India 🇮🇳</h3>
 
-- 👨‍🎓 I have successfully completed my MCA degree.
 - 👯 I'm eager to join forces with fellow programmers for collaborative projects.
 - 📧 You can get in touch with me at <a href="https://mail.google.com/mail/u/0/?to=alanshijoatkl@gmail.com&fs=1&tf=cm">alanshijoatkl@gmail.com</a>
 - 📝 Feel free to explore my <a href="https://www.alanshijo.vercel.app/" target="_blank">portfolio</a>
@@ -12,7 +10,6 @@
 <div style="display:flex;flex-direction:row;">
 <a href="https://www.linkedin.com/in/alan-shijo-823054170/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="25" width="25"/></a>&nbsp;
 <a href="https://www.instagram.com/a1an_shijo/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="25" width="25"/></a>&nbsp;
-</div>
 </div>
 
 ## ⚡Tech Stacks
