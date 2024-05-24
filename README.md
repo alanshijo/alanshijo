@@ -1,5 +1,6 @@
 <h1 align="left">Hi👋, I'm Alan Shijo</h1>
-<img align="left" alt="Coder GIF" width=350 src="./octocat-1716544507232.png" />
+<div>
+<img align="left" alt="Coder GIF" width=250 src="./octocat-1716544507232.png" />
 <h3 align="left">An enthusiastic developer hailing from India 🇮🇳</h3>
 
 - 👨‍🎓 I have successfully completed my MCA degree.
@@ -11,6 +12,7 @@
 <div style="display:flex;flex-direction:row;">
 <a href="https://www.linkedin.com/in/alan-shijo-823054170/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="25" width="25"/></a>&nbsp;
 <a href="https://www.instagram.com/a1an_shijo/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="25" width="25"/></a>&nbsp;
+</div>
 </div>
 
 ## ⚡Tech Stacks
@@ -38,7 +40,8 @@
 >Backend and Database
 <p>
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-2d5d83.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-e48e00.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
