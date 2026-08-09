@@ -1,64 +1,40 @@
-<h1 align="left">Hi👋, I'm Alan Shijo</h1>
-<img align="right" src="./octocat-1716544507232.png" alt="Coder GIF" width="300" />
-<h3 align="left">An enthusiastic developer hailing from India 🇮🇳</h3>
+# Alan Shijo
 
-- 👯 I'm eager to join forces with fellow programmers for collaborative projects.
-- 📧 You can get in touch with me at <a href="https://mail.google.com/mail/u/0/?to=alanshijoatkl@gmail.com&fs=1&tf=cm">alanshijoatkl@gmail.com</a>
-- 📝 Feel free to explore my <a href="https://www.alanshijo.vercel.app/" target="_blank">portfolio</a>
+**Associate Software Engineer — Backend & Shopify Specialist**  
+Digital Mesh Softech India Pvt. Ltd. · Kochi, Kerala, India
 
-<h4 align="left">Connect with me:</h4>
-<div style="display:flex;flex-direction:row;">
-<a href="https://www.linkedin.com/in/alan-shijo-823054170/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="25" width="25"/></a>&nbsp;
-<a href="https://www.instagram.com/a1an_shijo/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="25" width="25"/></a>&nbsp;
-</div>
+[Portfolio](https://www.alanshijo.vercel.app) · [LinkedIn](https://www.linkedin.com/in/alan-shijo) · [Email](mailto:alanshijoatkl@gmail.com)
 
-## ⚡Tech Stacks
-> Languages 
-<p>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-</p>
+---
 
-> Learning 
-<p>
-<img alt="Yii" src="https://img.shields.io/badge/Yii-247ba0.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-<img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-</p>
+## About
 
->Frontend
-<p>
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+Backend-focused software engineer with approximately 3 years of experience building scalable web applications, RESTful APIs, and Shopify e-commerce solutions. Currently working on custom Shopify Apps, Checkout UI Extensions, and Shopify Functions (Rust & JavaScript) for international clients, with backend infrastructure deployed on GCP, Cloudflare, and Hetzner.
 
->Backend and Database
-<p>
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-2d5d83.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-e48e00.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+Actively integrating AI-assisted development tools — Claude Code and Gemini — into daily engineering workflows to accelerate delivery and improve code quality.
 
->Version Control
-<p>
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+---
 
->Tools
-<p>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img style="margin: 10px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-<img alt="Figma" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
-</p>
+## Tech Stack
 
-## 📊 Github stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=alanshijo&show_icons=true&theme=gotham" alt="alanshijo" /> 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alanshijo&theme=gotham&border_radius=4&date_format=j%20M%5B%20Y%5D" /></a>
+**Languages**  
+PHP · JavaScript (ES6+) · Rust · TypeScript
 
-[![@alanshijo's Holopin board](https://holopin.me/alanshijo)](https://holopin.io/@alanshijo)
+**Frameworks & Libraries**  
+Laravel · Node.js · Express.js · React.js · Yii2
+
+**Shopify**  
+Shopify Apps · Checkout UI Extensions · Shopify Functions (Rust/JavaScript) · Shopify Partner Program
+
+**Databases**  
+PostgreSQL · MySQL · MongoDB · Microsoft SQL Server
+
+**Cloud & Infrastructure**  
+Google Cloud Platform · Cloudflare · Hetzner · Docker · GitHub Actions · CI/CD Pipelines
+
+**Tools & Practices**  
+Git · GitHub · REST APIs · Postman · Agile/Scrum · AI-Assisted Development (Claude Code · Gemini)
+
+---
+
+*Open to collaborations on backend, Shopify, and API-driven projects.*
